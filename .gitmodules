@@ -1,0 +1,4 @@
+[submodule "aur-archlinux"]
+	path = aur-archlinux
+	url = https://aur.archlinux.org/fcitx5-theme-ayaya.git
+	branch = master
